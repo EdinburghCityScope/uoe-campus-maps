@@ -1,1 +1,1 @@
-# Univeristy of Edinburgh campus maps
+## University of Edinburgh campus maps
