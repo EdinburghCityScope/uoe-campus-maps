@@ -1,15 +1,12 @@
 University of Edinburgh campus maps
 ===================================
 
-Installation
-------------
-
 ## Requirements
 
 - NodeJS
 - npm
 
-## Installing
+## Installation
 
 Clone the repository
 
