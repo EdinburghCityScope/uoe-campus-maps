@@ -33,7 +33,7 @@
     "public": false
   },
   "GeoJSONFeature": {
-    "dataSource": "MongoDB"
+    "dataSource": "db"
   },
   "GeoJSONGeometry": {
     "dataSource": null,
