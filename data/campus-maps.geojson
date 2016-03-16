@@ -1,0 +1,6125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0401",
+        "name": "New College",
+        "stub": "new-college",
+        "area": "central",
+        "type": "building",
+        "function": "School of Divinity",
+        "url": "http://www.ed.ac.uk/buildings/newcollege.html",
+        "address1": "1 Mound Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 2LU",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1952404975891113,
+          55.94966839561511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Mary Brück building",
+        "stub": "mary-bruck",
+        "area": "kb",
+        "type": "building",
+        "function": "Architecture",
+        "url": "",
+        "address1": "Mayfield Road",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DW",
+        "timestamp": "2015-12-21 14:10:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17301160099305,
+          55.923192586088604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Little France parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "Examination and Lecture Theatres",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:31:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1331968903759844,
+          55.92233895686732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0301",
+        "name": "St Cecilia's Hall",
+        "stub": "st-cecilias-hall",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/buildings/stceciliashall.html",
+        "address1": "Niddry Street",
+        "address2": "Cowgate",
+        "city": "Edinburgh",
+        "postcode": "EH1 1NQ",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186437487602234,
+          55.948890442429324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:34:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201640874158329,
+          55.86477113373242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Edinburgh Centre for Carbon Innovation",
+        "stub": "ecci",
+        "area": "central",
+        "type": "building",
+        "function": "Societies Centre, Sports Union",
+        "url": "",
+        "address1": "High School Yards",
+        "address2": "Infirmary Street",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LZ",
+        "timestamp": "2015-12-17 11:28:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1840935499349143,
+          55.94860093372968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square (7)",
+        "stub": "7-george-sq",
+        "area": "NULL",
+        "type": "building",
+        "function": "Registry, School of Law, Talbot Rice Gallery",
+        "url": "",
+        "address1": "7 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JZ",
+        "timestamp": "2015-12-17 11:11:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188741818157723,
+          55.94447058083185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Student Disability Service",
+        "stub": "disability-office",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Main University Library",
+        "address2": "30 George Square",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LJ",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188883662223816,
+          55.942747367366664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0110",
+        "name": "Alison House",
+        "stub": "alison-house",
+        "area": "central",
+        "type": "building",
+        "function": "Music",
+        "url": "",
+        "address1": "12 Nicolson Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9DF",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1863999366760254,
+          55.94611191059799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0108",
+        "name": "Potterow",
+        "stub": "potterow",
+        "area": "central",
+        "type": "building",
+        "function": "Student Association (EUSA), Chaplaincy Centre, Health Centre",
+        "url": "",
+        "address1": "5/2 Bristo Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1879234313964844,
+          55.946171989070706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Business School",
+        "stub": "business-school",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "University of Edinburgh Business School",
+        "address2": "29 Buccleuch Place",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JS",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187311887741089,
+          55.94310786812289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0104",
+        "name": "Bedlam Theatre",
+        "stub": "bedlam-theatre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "11b Bristo Place",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH1 1EZ",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1908202171325684,
+          55.94637625518069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0113",
+        "name": "Medical School (Old Medical School)",
+        "stub": "medical-school",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Teviot Place",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1905627250671387,
+          55.9452347542822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0114",
+        "name": "McEwan Hall",
+        "stub": "mcewan-hall",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/buildings/mcewanhall.html",
+        "address1": "Teviot Place",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1896400451660156,
+          55.94537894572608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Reid Concert Hall",
+        "stub": "reid-concert-hall",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/buildings/reidhall.html",
+        "address1": "Bristo Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189404010772705,
+          55.94489830549198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0116",
+        "name": "Teviot Row House",
+        "stub": "teviot-row-house",
+        "area": "central",
+        "type": "building",
+        "function": "Student Union",
+        "url": "",
+        "address1": "Bristo Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188953399658203,
+          55.94495838584748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0210",
+        "name": "Hugh Robson Building",
+        "stub": "hugh-robson-building",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9XD",
+        "timestamp": "2015-12-17 10:10:38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1899189949035645,
+          55.94427947240619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "International Office",
+        "stub": "international-office",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/internat/",
+        "address1": "33 Buccluech Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JT",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1854477524757385,
+          55.94319048240691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0201",
+        "name": "Appleton Tower",
+        "stub": "appleton-tower",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "11 Crichton Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LE",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1870651245117188,
+          55.94444169174422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "College of Humanities and Social Sciences Office",
+        "stub": "college-of-humanities-and-social-sciences-office",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.hss.ed.ac.uk/",
+        "address1": "55-56 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JU",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187258243560791,
+          55.9439970889746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0227",
+        "name": "George Square (50)",
+        "stub": "50-george-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "50 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LH",
+        "timestamp": "2015-12-21 14:46:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1871938705444336,
+          55.94384087597896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0229",
+        "name": "David Hume Tower Lecture Theatres",
+        "stub": "david-hume-tower-lecture-theatres",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LX",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1862711906433105,
+          55.94356449759697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0228",
+        "name": "David Hume Tower",
+        "stub": "david-hume-tower",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JX",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186657428741455,
+          55.94320400109114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Student Counselling Service",
+        "stub": "student-counselling-service",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Main University Library",
+        "address2": "30 George Square",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LJ",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1886690855026245,
+          55.94278041340901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Careers Service (Central Area)",
+        "stub": "careers-service",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Main University Library",
+        "address2": "30 George Square",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LJ",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189457654953003,
+          55.94266024584712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Office of Lifelong Learning",
+        "stub": "office-of-lifelong-learning",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.lifelong.ed.ac.uk/",
+        "address1": "Paterson's Land",
+        "address2": "Holyrood Road",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179597854614258,
+          55.95013395857849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "International Students Centre",
+        "stub": "international-students-centre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "",
+        "timestamp": "2015-12-17 11:19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1877517700195312,
+          55.94247098118107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Main University Library",
+        "stub": "main-university-library",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/buildings/mainlibrary.html",
+        "address1": "30 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LJ",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1891465187072754,
+          55.94271131710648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0225",
+        "name": "George Square Lecture Theatre",
+        "stub": "george-square-lecture-theatre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LH",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188202381134033,
+          55.94287955136691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1814968585968018,
+          55.94762585968953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18153977394104,
+          55.94804038304734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180917501449585,
+          55.948424864513875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1834065914154053,
+          55.948136503771885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183543384075165,
+          55.948642635526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1842970848083496,
+          55.948457905711784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1856220960617065,
+          55.94861410008381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.184036910533905,
+          55.94698454125869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189256489276886,
+          55.948250646822366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187655210494995,
+          55.945979737629976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1904876232147217,
+          55.94516866635766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.190058469772339,
+          55.94459339625103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186260461807251,
+          55.94426144799335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186657428741455,
+          55.94404515438496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.185756206512451,
+          55.94351042333503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1886422634124756,
+          55.942434930663616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1879019737243652,
+          55.942741358992286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1877490878105164,
+          55.9423072514778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1850534677505493,
+          55.942570119931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Parking",
+        "stub": "",
+        "area": "central",
+        "type": "parkpub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1885671615600586,
+          55.94769194342072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Teviot Row House",
+        "stub": "",
+        "area": "central",
+        "type": "union",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1886208057403564,
+          55.94499443401603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "The Potterow",
+        "stub": "",
+        "area": "central",
+        "type": "union",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1882989406585693,
+          55.9460097769805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Pleasance",
+        "stub": "",
+        "area": "central",
+        "type": "union",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1815505027770996,
+          55.947740004245276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "British Geological Survey",
+        "stub": "british-geological-survey",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Murchison House",
+        "address2": "West Mains Road",
+        "city": "Edinburgh",
+        "postcode": "EH9 3LA",
+        "timestamp": "2014-10-23 14:26:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179168701171875,
+          55.924285244109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0622",
+        "name": "Weir Building",
+        "stub": "weir-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Science and Engineering Office, Chaplaincy, Careers Service, Student Advisory and Counselling Service",
+        "url": "",
+        "address1": "King's Buildings",
+        "address2": "Max Born Crescent",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2014-10-23 14:26:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179243803024292,
+          55.923149103527734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0621",
+        "name": "Crew Building",
+        "stub": "crew-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "King's Buildings",
+        "address2": "Alexander Crum Brown Road",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FF",
+        "timestamp": "2014-10-23 14:33:54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177666664123535,
+          55.92309500076456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0632",
+        "name": "Joseph Black Building",
+        "stub": "joseph-black-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Chemistry",
+        "url": "",
+        "address1": "David Brewster Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FJ",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1762075424194336,
+          55.92366007034405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0648",
+        "name": "Roger Land Building",
+        "stub": "roger-land-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Alexander Crum Brown Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FF",
+        "timestamp": "2015-12-17 10:11:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176422119140625,
+          55.92230148489467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Peter Wilson Building",
+        "stub": "peter-wilson-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Nicholas Kemmer Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FH",
+        "timestamp": "2015-12-17 10:11:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176518678665161,
+          55.92162217431171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Grant Institute",
+        "stub": "grant-institute",
+        "area": "kb",
+        "type": "building",
+        "function": "Geosciences",
+        "url": "",
+        "address1": "James Hutton Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FE",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1746411323547363,
+          55.92384642127126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0637",
+        "name": "King's Buildings House",
+        "stub": "kings-buildings-house",
+        "area": "kb",
+        "type": "building",
+        "function": "Students Association EUSA",
+        "url": "",
+        "address1": "KB Square",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DL",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.174877166748047,
+          55.92357591156712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0639",
+        "name": "King's Buildings Centre",
+        "stub": "kings-buildings-centre",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Thomas Bayes Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FG",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1746411323547363,
+          55.92294471491505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0613",
+        "name": "James Clerk Maxwell Building",
+        "stub": "james-clerk-maxwell-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Informatics, Mathematics, Physics, Geosciences (Meteorology)",
+        "url": "",
+        "address1": "Peter Guthrie Tait Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FD",
+        "timestamp": "2015-12-17 10:11:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1740939617156982,
+          55.921670267487926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0640-0644",
+        "name": "Ashworth Laboratories",
+        "stub": "ashworth-laboratories",
+        "area": "kb",
+        "type": "building",
+        "function": "Biological Sciences, (Cell, Animal and Population Biology)",
+        "url": "http://www.ed.ac.uk/buildings/nathistmus.html",
+        "address1": "Charlotte Auerbach Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FL",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1727099418640137,
+          55.92396063591281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Sanderson Building",
+        "stub": "sanderson-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Engineering and Electronics (Mechanical Engineering)",
+        "url": "",
+        "address1": "Robert Stevenson Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FB",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171722888946533,
+          55.923101012186436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0605",
+        "name": "John Muir Building",
+        "stub": "john-muir-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Geosciences (Centre for Environmental Change and Sustainability)",
+        "url": "",
+        "address1": "Colin Maclaurin Road ",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DW",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.173254430294037,
+          55.92273281087712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0602",
+        "name": "Hudson Beare Building",
+        "stub": "hudson-beare-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Engineering and Electronics (Mechanical and Electrical Engineering)",
+        "url": "",
+        "address1": "Colin Maclaurin Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DW",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1713366508483887,
+          55.922523911436244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0616",
+        "name": "Alrick Building",
+        "stub": "alrick-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Engineering and Electronics (Electrical Engineering)",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1714224815368652,
+          55.922163219103844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0608",
+        "name": "Daniel Rutherford Building",
+        "stub": "daniel-rutherford-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Biological Sciences (Cell and Molecular Biology)",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.170682191848755,
+          55.921928767287845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0610",
+        "name": "Darwin Building",
+        "stub": "darwin-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Biological Sciences (Cell and Molecular Biology), Geosciences (Ecology and Resource Management)",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1710684299468994,
+          55.92141777764695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Swann Building",
+        "stub": "michael-swann-building",
+        "area": "kb",
+        "type": "building",
+        "function": "Biological Sciences",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 10:10:43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171926736831665,
+          55.92161015100832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "John Murray Building",
+        "stub": "john-murray-labs",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "James Hutton Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FE",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.173428773880005,
+          55.923431638952884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0647",
+        "name": "March Building",
+        "stub": "march-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "James Hutton Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FE",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172849416732788,
+          55.92344366169125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0652",
+        "name": "Ann Walker Building",
+        "stub": "ann-walker-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Thomas Bayes Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FG",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1738901138305664,
+          55.92310702360735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Structures Lab",
+        "stub": "structures-lab",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Colin Maclaurin Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DW",
+        "timestamp": "2014-10-23 14:47:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172677755355835,
+          55.92290864622444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0615",
+        "name": "Fleeming Jenkin Building",
+        "stub": "fleeming-jenkin-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Colin Maclaurin Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DW",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1723880767822266,
+          55.92240969256081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Alexander Graham Bell Building",
+        "stub": "alexander-graham-bell-building",
+        "area": "kb",
+        "type": "building",
+        "function": "IDCOM",
+        "url": "",
+        "address1": "King's Buildings",
+        "address2": "Thomas Bayes Road",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FG",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1727340817451477,
+          55.92226842138084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "NULL",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:23:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17625170948304,
+          55.92224277211457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:28:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177891969680786,
+          55.9239906923415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:28:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1775888800621033,
+          55.9235067810065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Pleasance",
+        "stub": "pleasance",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Pleasance",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9TJ",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1815088394796476,
+          55.94783752750958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:28:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1792008876800537,
+          55.922283450254255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:28:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1783533096313477,
+          55.92168229077266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:28:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175424337387085,
+          55.92338354796214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:28:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175220489501953,
+          55.922127149686006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1744909286499023,
+          55.92420709793986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1734126806259155,
+          55.92239766950171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17305326461792,
+          55.92406883894695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1722700595855713,
+          55.92384642127126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1713151931762695,
+          55.92302286362952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1722700595855713,
+          55.92266217594037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171781897544861,
+          55.921302052586846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "kb",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1705856323242188,
+          55.9215620577575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "King's House Building",
+        "stub": "",
+        "area": "kb",
+        "type": "union",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1749415397644043,
+          55.9235699002189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Pollock Halls of Residence",
+        "stub": "pollock",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "18",
+        "address2": "Holyrood Park Road",
+        "city": "Edinburgh",
+        "postcode": "EH16 5AY",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1718409061431885,
+          55.940379194547155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0905",
+        "name": "Abden House",
+        "stub": "abden-house",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1",
+        "address2": "Marchhall Crescent",
+        "city": "Edinburgh",
+        "postcode": "EH16 5HP",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1692230701446533,
+          55.93744010752558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "South College Street",
+        "stub": "south-college-street",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "South College Street",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AA",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1870731711387634,
+          55.946978533541674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square",
+        "stub": "george-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "George Square",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JZ",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188631534576416,
+          55.943528448097396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Informatics Forum",
+        "stub": "informatics-forum",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "10",
+        "address2": "Crichton Street",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AB",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18753719329834,
+          55.94466529296792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Dugald Stewart Building",
+        "stub": "dugald-stewart-building",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "3",
+        "address2": "Charles Street",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AD",
+        "timestamp": "2015-12-21 14:46:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187859058380127,
+          55.945150642358676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "",
+        "area": "central",
+        "type": "info",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1877517700195312,
+          55.94492834568138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0603",
+        "name": "Faraday Building",
+        "stub": "faraday-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Colin Maclaurin Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DW",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1716692447662354,
+          55.92233605126528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Chancellor's Building",
+        "stub": "chancellors-building",
+        "area": "littlefrance",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "49",
+        "address2": "Little France Crescent",
+        "city": "Edinburgh",
+        "postcode": "EH16 4SB",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.136875629425049,
+          55.92201813969805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Queen's Medical Research Institute",
+        "stub": "qmri",
+        "area": "littlefrance",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "47 Little France Crescent",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH16 4TJ",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.138871192932129,
+          55.92224136939404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Chrystal Macmillan Building",
+        "stub": "chrystal-macmillan-building",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "15a",
+        "address2": "George Square",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LD",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1908416748046875,
+          55.94417653288113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Visitor Centre",
+        "stub": "visitor-centre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "2",
+        "address2": "Charles Street",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AD",
+        "timestamp": "2015-12-21 14:46:12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1877946853637695,
+          55.94508675724026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Talbot Rice Gallery",
+        "stub": "talbot-rice-gallery",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Old College",
+        "address2": "South Bridge",
+        "city": "Edinburgh",
+        "postcode": "EH8 9YL",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1878644227981567,
+          55.947193308845954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0009",
+        "name": "Charles Stewart House",
+        "stub": "charles-stewart-house",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "9-16",
+        "address2": "Chambers Street",
+        "city": "Edinburgh",
+        "postcode": "EH1 1HT",
+        "timestamp": "2015-12-21 14:12:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1879770755767822,
+          55.94796148378652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0701",
+        "name": "Royal (Dick) School of Veterinary Studies",
+        "stub": "dick-vet-easter-bush",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Midlothian",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2010340690612793,
+          55.86583603907773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Buccleuch Place",
+        "stub": "buccleuch-place",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Buccleuch Place",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1865286827087402,
+          55.942873543013036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0658",
+        "name": "Erskine Williamson Building",
+        "stub": "erskine-williamson-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Peter Guthrie Tait Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FD",
+        "timestamp": "2015-12-17 10:11:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1745553016662598,
+          55.92139974259539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0109",
+        "name": "Health Centre",
+        "stub": "health-centre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "6 Bristo Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1881996989250183,
+          55.94585807802205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "William Rankine Building",
+        "stub": "william-rankine-building",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Thomas Bayes Road",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FG",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1731122732162476,
+          55.92252992294667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0558",
+        "name": "Charteris Land",
+        "stub": "charteris-land",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood Road",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180912137031555,
+          55.95015157978251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0561",
+        "name": "Simon Laurie House",
+        "stub": "simon-laurie-house",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "186 -198 Canongate",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.181537091732025,
+          55.95090117410713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0553",
+        "name": "St John's Land",
+        "stub": "st-johns-land",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1810247898101807,
+          55.95084861186862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0552",
+        "name": "Dalhousie Land",
+        "stub": "dalhousie-land",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1807351112365723,
+          55.9506295517108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0556",
+        "name": "Old Nursery School Building",
+        "stub": "nursery",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180665373802185,
+          55.95042530803683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0555",
+        "name": "Thomson's Land",
+        "stub": "thomsons-land",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180045783519745,
+          55.950776526396936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Moray House Reception / Old Moray House",
+        "stub": "moray-house-reception",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180488348007202,
+          55.95109209957769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Roslin Institute",
+        "stub": "roslin-institute",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "http://www.roslin.ac.uk/",
+        "address1": "Easter Bush",
+        "address2": "Midlothian",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.198115825653076,
+          55.86546277867434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Procurement Office incorporating Printing Services",
+        "stub": "procurement-office",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "13 Infirmary Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LT",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1851929426193237,
+          55.94836178578508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "MacKenzie Medical Centre",
+        "stub": "mackenzie-medical-centre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Levinson House",
+        "address2": "20 West Richmond Street",
+        "city": "Edinburgh",
+        "postcode": "EH8 9DX",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1835299730300903,
+          55.945592227919064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0322",
+        "name": "Roxburgh Street (1)",
+        "stub": "roxburgh-street",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1 Roxburgh Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9TA",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1833046674728394,
+          55.947880782073405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Western General Hospital",
+        "stub": "western-general",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Crewe Road South",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.234872817993164,
+          55.962029445732156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "0271-0272",
+        "name": "Hope Park Square",
+        "stub": "hope-park",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Hope Park Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9NW",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1860485672950745,
+          55.94207520976376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Careers Service (King's Buildings)",
+        "stub": "",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Weir Building",
+        "address2": "Max Born Crescent",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2014-10-23 14:26:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1792491674423218,
+          55.92320921762047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Peffermill Playing Fields Office",
+        "stub": "peffermill",
+        "area": "NULL",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Laurie Liddell Clubhouse",
+        "address2": "42 Peffermill Road",
+        "city": "Edinburgh",
+        "postcode": "EH16 5LL",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.156648874282837,
+          55.92998347852294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Firbush",
+        "stub": "firbush",
+        "area": "NULL",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Killin",
+        "address2": "Perthshire",
+        "city": "",
+        "postcode": "FK21 8SU",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.270350337028503,
+          56.47512876817576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Royal Observatory, Edinburgh",
+        "stub": "royal-observatory",
+        "area": "NULL",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Blackford Hill",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH9 3HJ",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187236785888672,
+          55.92286015382696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "C.H. Waddington Building",
+        "stub": "ch-waddington",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "http://csbe.bio.ed.ac.uk",
+        "address1": "Max Born Crescent",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.170081377029419,
+          55.92164020925979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Labyrinth",
+        "stub": "labyrinth",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/schools-departments/labyrinth/",
+        "address1": "George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JZ.",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18952739238739,
+          55.94382845902763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Institute for Academic Development",
+        "stub": "academic-development",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1 Morgan Lane",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8FP",
+        "timestamp": "2016-01-19 11:03:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182175770489266,
+          55.94981292098116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Royal Edinburgh Hospital",
+        "stub": "royal-edinburgh-hospital",
+        "area": "NULL",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH10 5HF",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.213447332382202,
+          55.92782730422747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Hospital for Small Animals",
+        "stub": "small-animals-hospital",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Midlothian",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.202289342880249,
+          55.86508349426774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Old Faculty Office",
+        "stub": "old-faculty-office",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Max Born Crescent ",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2014-10-23 14:49:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1785035133361816,
+          55.92355787751969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Infirmary Street (9-11)",
+        "stub": "Infirmary Steet",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "9-11 Infirmary Street",
+        "address2": "EH1 1NP",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.185337781906128,
+          55.9483347520127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Bristo Square (7)",
+        "stub": "bristo-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "7 Bristo Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188105821609497,
+          55.94569135867933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "John McIntyre Conference Centre",
+        "stub": "john-mcIntyre-conference-centre",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "18",
+        "address2": "Holyrood Park Road",
+        "city": "Edinburgh",
+        "postcode": "EH16 5AY",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1700706481933594,
+          55.94000905427893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Library Annexe",
+        "stub": "library-annexe",
+        "area": "NULL",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Unit 1a",
+        "address2": "20 To 22 South Gyle Crescent",
+        "city": "Edinburgh",
+        "postcode": "EH12 9EB",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.303537368774414,
+          55.93050036550937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Old Surgeons' Hall",
+        "stub": "old-surgeons-hall",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Surgeons Square",
+        "address2": "High School Yards",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LZ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1831464171409607,
+          55.94848644126908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Old Infirmary (Geography)",
+        "stub": "institute-of-geography",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1 Drummond Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9XP",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183760643005371,
+          55.94823342524865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Drummond Library (GeoSciences)",
+        "stub": "drummond-library",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "High School Yards",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LZ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1829774379730225,
+          55.94868699056292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Chisholm House",
+        "stub": "chisholm-house",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1 Surgeons Square",
+        "address2": "High School Yards",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LZ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18304181098938,
+          55.94884919143856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Drummond Street Annex",
+        "stub": "drummond-street-annex",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1 Drummond Street",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LZ",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182913064956665,
+          55.94825745533234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Evolution House",
+        "stub": "evolution-house",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "78 Westport",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH1 2LE",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2005995512008667,
+          55.94607366057627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Hunter Building",
+        "stub": "hunter-building",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Lauriston Place",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH3 9DF",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.198072910308838,
+          55.945128212457085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "ECA Main Building",
+        "stub": "eca-main-building",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Lauriston Place",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH3 9DF",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1990599632263184,
+          55.94585517418336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "William Robertson Wing",
+        "stub": "william-robertson-wing",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Doorway 4",
+        "address2": "Teviot Place",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AG",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1907665729522705,
+          55.94500805217986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Economics, School of",
+        "stub": "economics",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "30-31 Buccleuch Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JT",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1860029697418213,
+          55.94312889723008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Scottish Centre for Regenerative Medicine",
+        "stub": "SCRM",
+        "area": "littlefrance",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Edinburgh bioQuarter",
+        "address2": "5 Little France Drive",
+        "city": "Edinburgh",
+        "postcode": "EH16 4UU",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.130781650543213,
+          55.92137569584689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Clinical Research Imaging Centre",
+        "stub": "clinical-research-imaging-centre",
+        "area": "littlefrance",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "47 Little France Crescent",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH16 4TJ",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1395041942596436,
+          55.921874662821196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Riddell-Swan Veterinary Cancer Centre",
+        "stub": "riddell-swan-building",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Roslin",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2020211219787598,
+          55.864788492724344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Equine Hospital",
+        "stub": "equine-hospital",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush Campus",
+        "address2": "NULL",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1992530822753906,
+          55.86429481166027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush Campus Service Centre",
+        "stub": "easter-campus-management",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Roslin",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1989848613739014,
+          55.866552448189864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Sir Alexander Robertson Building",
+        "stub": "alexander-robertson",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Roslin",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1983304023742676,
+          55.86480053364749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Farm Animal Practice and Equine Clinical Unit",
+        "stub": "farm-animal-practice",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Roslin",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1991994380950928,
+          55.86486073820742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Farm Animal Hospital",
+        "stub": "farm-animal-unit",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Roslin",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1998538970947266,
+          55.86413827732982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Scintigraphy and Exotic Animal Unit",
+        "stub": "scintigraphy-exotics",
+        "area": "easter",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Easter Bush",
+        "address2": "Roslin",
+        "city": "Edinburgh",
+        "postcode": "EH25 9RG",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.198920488357544,
+          55.86375295936746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Biomedical Research Facility",
+        "stub": "biomedical-research-facility",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.238241672515869,
+          55.96288220061321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "CJD Surveillance Unit",
+        "stub": "cjd-surveillance-unit",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.237050771713257,
+          55.96215555855342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Wellcome Trust Clinical Research Facility",
+        "stub": "wellcome-trust-clinical-research",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2354736328125,
+          55.96220360142484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Clinical Neurosciences",
+        "stub": "clinical-neurosciences",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.237147331237793,
+          55.9618192567835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Bramwell Dott Building",
+        "stub": "bramwell-dott-building",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2368093729019165,
+          55.96135683707825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Division of Pathology Laboratories",
+        "stub": "pathology-labs",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2339179515838623,
+          55.9620714833849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "IGMM Complex",
+        "stub": "igmm-complex",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2323193550109863,
+          55.96229368164804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Noreen and Kenneth Murray Library",
+        "stub": "noreen-kenneth-murray-library",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "King's Buildings",
+        "address2": "Thomas Bayes Road",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FG",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1750380992889404,
+          55.92295072636021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Anatomical Museum",
+        "stub": "anatomical-museum",
+        "area": "central",
+        "type": "building",
+        "function": "School of Biomedical Sciences",
+        "url": "http://www.anatomy.mvm.ed.ac.uk/museum/index.php",
+        "address1": "Doorway 3, Medical School",
+        "address2": "Teviot Place",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AG",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.190053701401041,
+          55.94509084045476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Reid Museum of Musical Instruments",
+        "stub": "reid-museum",
+        "area": "central",
+        "type": "building",
+        "function": "Reid Concert Hall",
+        "url": "",
+        "address1": "Reid Concert Hall",
+        "address2": "Bristo Square",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189157843590067,
+          55.94492862383585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Law and Europa Library",
+        "stub": "NULL",
+        "area": "central",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187129497528076,
+          55.94766190537506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Moray House Library",
+        "stub": "NULL",
+        "area": "central",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1807780265808105,
+          55.950602519521695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Library Annexe",
+        "stub": "NULL",
+        "area": "NULL",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.303440809249878,
+          55.93049435523518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "New College Library",
+        "stub": "",
+        "area": "central",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1952404975891113,
+          55.94952422014286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Main Library",
+        "stub": "NULL",
+        "area": "central",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1888461112976074,
+          55.94268728358105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Noreen and Kenneth Murray Library",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175027370452881,
+          55.92289662332013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Darwin Learning & Teaching Cluster",
+        "stub": "darwin-learning-teaching",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 10:10:43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1713849306106567,
+          55.921742407140414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "kb",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:23:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172098398208618,
+          55.92159211604624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "kb",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:23:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.174598217010498,
+          55.921676279130764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1749308109283447,
+          55.92293870346895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "King's House Building",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1749415397644043,
+          55.9235518661687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189210891723633,
+          55.94278341759328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1864213943481445,
+          55.94364861296548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.195219039916992,
+          55.949380044133754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.181636333465576,
+          55.94769795102705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188631534576416,
+          55.94501846610975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188159465789795,
+          55.94623206745019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "central",
+        "type": "cafe",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186936378479004,
+          55.94296366822305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "NULL",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "busshut",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1770122051239014,
+          55.92220530004892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "central",
+        "type": "busshut",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187059760093689,
+          55.94581452078557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Mayfield, after Rankin Drive",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1725382804870605,
+          55.92477816246741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Mayfield, before Rankin Drive",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1726455688476562,
+          55.9246789781796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Mayfield, after Mayfield Road",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1740376353263855,
+          55.92438292659884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Mayfield, before Observatory Road",
+        "stub": "NULL",
+        "area": "kb",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179887533187866,
+          55.924584302031725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Newington, at Kings Hall",
+        "stub": "NULL",
+        "area": "central",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180692195892334,
+          55.94069845767265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "South Side, opp Meadow Lane",
+        "stub": "NULL",
+        "area": "central",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1845009326934814,
+          55.943167951256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "South Side, before Marshall Street",
+        "stub": "NULL",
+        "area": "central",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.185337781906128,
+          55.94584756421083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "South Side, Potterow (NW-bound)",
+        "stub": "NULL",
+        "area": "central",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1861424446105957,
+          55.94441765929256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "South Side, Potterrow (SE-bound)",
+        "stub": "NULL",
+        "area": "central",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1867969036102295,
+          55.94560724774754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:33:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.197882294698502,
+          55.86605557878544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Canongate, after Gullan's Close",
+        "stub": "NULL",
+        "area": "central",
+        "type": "buspub",
+        "function": "",
+        "url": "",
+        "address1": "NULL",
+        "address2": "NULL",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18116158246994,
+          55.94948066703003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Student Recruitment and Admissions",
+        "stub": "student-recruitment-admissions",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.ed.ac.uk/schools-departments/student-recruitment/",
+        "address1": "33 Buccleuch Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JT",
+        "timestamp": "2015-12-17 10:10:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1854933500289917,
+          55.94319198448315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square (16-22)",
+        "stub": "16-27-george-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "16-22 George Square",
+        "address2": "",
+        "city": "Edinbrugh",
+        "postcode": "EH8 9LD",
+        "timestamp": "2015-12-17 11:15:31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19053053855896,
+          55.94349239856423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square (2-15)",
+        "stub": "1-15-george-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1-15 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JZ",
+        "timestamp": "2015-12-21 14:37:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1889963150024414,
+          55.944447699854805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square (55-60)",
+        "stub": "55-60-george-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "55-60 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JU",
+        "timestamp": "2015-12-17 10:10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1872904300689697,
+          55.944177333955835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square (1)",
+        "stub": "1-george-square",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "1 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JZ",
+        "timestamp": "2016-01-19 11:05:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1880736351013184,
+          55.9445678618707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "FloWave Ocean Energy Research Facility",
+        "stub": "flowave",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "http://www.flowavett.co.uk/",
+        "address1": "Building 29, King's Buildings",
+        "address2": "Max Born Crescent",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2014-10-23 14:33:54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1787583231925964,
+          55.92213917282902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Edinburgh Dental Institute",
+        "stub": "dental",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "http://www.dentistry.ed.ac.uk",
+        "address1": "4th Floor, Lauriston Building",
+        "address2": "Lauriston Place",
+        "city": "Edinburgh",
+        "postcode": "EH3 9HA",
+        "timestamp": "2015-12-17 09:50:06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1972124129561053,
+          55.94449313616091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Medical Education Centre",
+        "stub": "medical-education-centre",
+        "area": "westerngeneral",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Western General Hospital",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH4 2XU",
+        "timestamp": "2015-12-17 10:10:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2344329357147217,
+          55.962386764325075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "",
+        "stub": "",
+        "area": "westerngeneral",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.235173225402832,
+          55.961509279280044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "",
+        "stub": "",
+        "area": "littlefrance",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1371599435806274,
+          55.922099456756186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "",
+        "stub": "",
+        "area": "easter",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.200969696044922,
+          55.86593838404562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "Edinburgh College of Art Library",
+        "stub": "",
+        "area": "general",
+        "type": "lib",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.200696110725403,
+          55.94614495376952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "",
+        "stub": "",
+        "area": "central",
+        "type": "busshut",
+        "function": "",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2014-09-30 15:21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183322101831436,
+          55.94145179007537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "Arcadia Nursery",
+        "stub": "arcadia",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2014-10-23 14:33:54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1770189106464386,
+          55.92431680309418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "NULL",
+        "name": "Christina Miller Building",
+        "stub": "christina-miller",
+        "area": "kb",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "KB Square",
+        "address2": "King's Buildings",
+        "city": "Edinburgh",
+        "postcode": "EH9 3DL",
+        "timestamp": "2014-10-23 14:35:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176289349794388,
+          55.92288309754831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "St Leonard's Land",
+        "stub": "st-leonards-land",
+        "area": "central",
+        "type": "building",
+        "function": "",
+        "url": "",
+        "address1": "Holyrood Road",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1796447932720184,
+          55.94942359735976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Forrest Hill Building",
+        "stub": "forrest-hill-building",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "5 Forrest Hill",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 2QL",
+        "timestamp": "2015-03-10 11:06:08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1919199228286743,
+          55.946015784847816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Sport and Exercise, Centre for",
+        "stub": "centre-sport-exercise",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "46 Pleasance",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9TJ",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1814534553996054,
+          55.94824718642976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "High School Yards",
+        "stub": "high-school-yards",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 1LZ",
+        "timestamp": "2015-12-17 11:28:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183959126472473,
+          55.94866966908342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "North-East Studio Building",
+        "stub": "north-east-studio",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Lauriston Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH3 9DF",
+        "timestamp": "2015-09-16 11:57:25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1977570356684737,
+          55.94596241493948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Paterson's Land",
+        "stub": "patersons-land",
+        "area": "NULL",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Holyrood Road",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 10:10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179701119661331,
+          55.95009190796018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "NULL",
+        "type": "cafe",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:23:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1729686856488115,
+          55.92316854045239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "NULL",
+        "type": "cafe",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:23:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17625170948304,
+          55.92224277211457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "",
+        "stub": "",
+        "area": "NULL",
+        "type": "cafe",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:23:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171434462092293,
+          55.92245918747261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.174202501795662,
+          55.92272369349146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171734243642277,
+          55.923336158252205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "KB Parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:29:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172705203305668,
+          55.923648749007654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Western General Hospital parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:30:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2334591157268733,
+          55.96384583109911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Little France parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:30:52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1413413293194026,
+          55.92112600960902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Little France parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:31:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1371141672570957,
+          55.92343444430776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Little France parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:31:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1331968903759844,
+          55.92233895686732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Little France parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:31:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1334972977856523,
+          55.921124606848075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Little France parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkpub",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:31:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.131513714834,
+          55.91887755823411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:32:31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.200628877384588,
+          55.86682616520641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:33:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.197882294698502,
+          55.86605557878544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:33:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.203342020533455,
+          55.864356421818734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:34:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201640874158329,
+          55.86477113373242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Easter Bush parking",
+        "stub": "",
+        "area": "NULL",
+        "type": "parkperm",
+        "function": "NULL",
+        "url": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "postcode": "",
+        "timestamp": "2015-12-17 10:34:23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201748162518925,
+          55.865228681201934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Wilkie Building",
+        "stub": "wilkie",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Medical School",
+        "address2": "22 - 23 Teviot Row",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AG",
+        "timestamp": "2015-12-21 14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18918154388939,
+          55.944740018345534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "George Square (27-29)",
+        "stub": "27-29-george-sq",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "27-29 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LD",
+        "timestamp": "2015-12-21 14:37:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1902951300253335,
+          55.943075523343175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Buccleuch Place (17-25)",
+        "stub": "17-25-buccleuch",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "17-25 Buccleuch Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LN",
+        "timestamp": "2015-12-17 11:47:46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1878757776576094,
+          55.9424656737581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Buccleuch Place (14-16)",
+        "stub": "14-16-buccleuch",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "14-16 Buccleuch Place",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9LN",
+        "timestamp": "2015-12-17 11:48:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1867445111493,
+          55.942622593292114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Chaplaincy",
+        "stub": "chaplaincy",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "1 Bristo Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9AL",
+        "timestamp": "2015-12-17 11:20:06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1882885248342063,
+          55.94622941399652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Lister Postgraduate Institute",
+        "stub": "lister-postgrad",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "11 Hill Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9DR",
+        "timestamp": "2015-12-17 11:21:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.184373438707553,
+          55.94717668760733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Old Kirk",
+        "stub": "old-kirk",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "37 Holyrood Rd",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8AQ",
+        "timestamp": "2015-12-17 11:30:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180515795957035,
+          55.94976821680297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Outreach Centre",
+        "stub": "outreach",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "9C Holyrood Road",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 8FP",
+        "timestamp": "2016-01-19 10:58:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1820768416037026,
+          55.94953092833132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Biospace",
+        "stub": "biospace",
+        "area": "kb",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 11:36:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17875152828492,
+          55.92249525658148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "UK Biochar Research Centre",
+        "stub": "biochar-research",
+        "area": "kb",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Max Born Crescent",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH9 3BF",
+        "timestamp": "2015-12-17 11:37:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178429663203133,
+          55.92318657468095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Anne Rowling Regenerative Neurology Clinic",
+        "stub": "regenerative-neurology",
+        "area": "littlefrance",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "49 Little France Crescent",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH16 4SB",
+        "timestamp": "2015-12-17 11:46:51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1377825290019246,
+          55.921890867925434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Minto House",
+        "stub": "minto-house",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "20-22 Chambers Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 1HT",
+        "timestamp": "2015-12-21 14:12:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1890824587026145,
+          55.94778390985669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Adam House",
+        "stub": "adam-house",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "3 Chambers Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH1 1HT",
+        "timestamp": "2015-12-21 14:12:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187388241640292,
+          55.94807783013241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Old College",
+        "stub": "old-college",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "South Bridge",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9YL",
+        "timestamp": "2015-12-21 14:37:26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186465561739169,
+          55.94753714713389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Institute for Advanced Studies in the Humanities",
+        "stub": "iash",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Hope Park Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9NW",
+        "timestamp": "2015-12-21 14:43:21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.185987189417574,
+          55.942149880049485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Scottish Microelectronic Centre",
+        "stub": "scottish-micro-electronic-centre",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "Alexander Crum Brown Road",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH9 3FF",
+        "timestamp": "2015-12-22 10:18:34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177898585818184,
+          55.92213756976796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Argyle House",
+        "stub": "argyle",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "3 Lady Lawson Street",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH3 9DR",
+        "timestamp": "2016-01-07 14:09:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2017106117564254,
+          55.94674042695241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ebid": "",
+        "name": "Psychology Building",
+        "stub": "psychology-building",
+        "area": "central",
+        "type": "building",
+        "function": "NULL",
+        "url": "",
+        "address1": "7 George Square",
+        "address2": "",
+        "city": "Edinburgh",
+        "postcode": "EH8 9JZ",
+        "timestamp": "2016-01-19 11:05:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18860533850966,
+          55.94447543729878
+        ]
+      }
+    }
+  ]
+}
