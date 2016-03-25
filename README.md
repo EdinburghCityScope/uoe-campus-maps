@@ -26,3 +26,10 @@ Run the API (from the uoe-campus-maps directory)
 ```
 node .
 ```
+
+Converting the csv into loopback data.
+
+```
+cd scripts
+node featureCollectionToLoopbackJson.js
+```
