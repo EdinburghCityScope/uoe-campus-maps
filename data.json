@@ -26,6 +26,6 @@
       "mediaType": "application/vnd.geo+json",
       "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/uoe-campus-maps/master/data/campus-maps.geojson",
       "license": "https://github.com/EdinburghCityScope/uoe-campus-maps/blob/master/LICENSE"
-    },
+    }
   ]
 }
